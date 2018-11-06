@@ -58,7 +58,6 @@ who are willing to help maintaining and leading the project. Committers come fro
 
 New committers will be proposed by current committers, with support from more than two of current committers.
 
-
 List of Contributors
 --------------------
 * [Full List of Contributors](https://github.com/apache/incubator-mxnet/graphs/contributors)
